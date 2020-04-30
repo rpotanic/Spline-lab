@@ -1,0 +1,184 @@
+D:\My_programs\4M\Spline\Spline_006\Spline_005\bin\Debug\Spline_005.exe
+D:\My_programs\4M\Spline\Spline_006\Spline_005\bin\Debug\Spline_005.pdb
+D:\My_programs\4M\Spline\Spline_006\Spline_005\bin\Debug\ZedGraph.dll
+D:\My_programs\4M\Spline\Spline_006\Spline_005\obj\Debug\ResolveAssemblyReference.cache
+D:\My_programs\4M\Spline\Spline_006\Spline_005\obj\Debug\Spline_005.Form1.resources
+D:\My_programs\4M\Spline\Spline_006\Spline_005\obj\Debug\Spline_005.Properties.Resources.resources
+D:\My_programs\4M\Spline\Spline_006\Spline_005\obj\Debug\Spline_005.csproj.GenerateResource.Cache
+D:\My_programs\4M\Spline\Spline_006\Spline_005\obj\Debug\Spline_005.exe
+D:\My_programs\4M\Spline\Spline_006\Spline_005\obj\Debug\Spline_005.pdb
+D:\My_programs\4M\Spline\Spline_007\Spline_005\bin\Debug\Spline_005.exe
+D:\My_programs\4M\Spline\Spline_007\Spline_005\bin\Debug\Spline_005.pdb
+D:\My_programs\4M\Spline\Spline_007\Spline_005\bin\Debug\ZedGraph.dll
+D:\My_programs\4M\Spline\Spline_007\Spline_005\obj\Debug\ResolveAssemblyReference.cache
+D:\My_programs\4M\Spline\Spline_007\Spline_005\obj\Debug\Spline_005.Form1.resources
+D:\My_programs\4M\Spline\Spline_007\Spline_005\obj\Debug\Spline_005.Properties.Resources.resources
+D:\My_programs\4M\Spline\Spline_007\Spline_005\obj\Debug\Spline_005.csproj.GenerateResource.Cache
+D:\My_programs\4M\Spline\Spline_007\Spline_005\obj\Debug\Spline_005.exe
+D:\My_programs\4M\Spline\Spline_007\Spline_005\obj\Debug\Spline_005.pdb
+D:\My_programs\4M\Spline\Spline_008\Spline_005\bin\Debug\Spline_005.exe
+D:\My_programs\4M\Spline\Spline_008\Spline_005\bin\Debug\Spline_005.pdb
+D:\My_programs\4M\Spline\Spline_008\Spline_005\bin\Debug\ZedGraph.dll
+D:\My_programs\4M\Spline\Spline_008\Spline_005\obj\Debug\ResolveAssemblyReference.cache
+D:\My_programs\4M\Spline\Spline_008\Spline_005\obj\Debug\Spline_005.Form1.resources
+D:\My_programs\4M\Spline\Spline_008\Spline_005\obj\Debug\Spline_005.Properties.Resources.resources
+D:\My_programs\4M\Spline\Spline_008\Spline_005\obj\Debug\Spline_005.csproj.GenerateResource.Cache
+D:\My_programs\4M\Spline\Spline_008\Spline_005\obj\Debug\Spline_005.exe
+D:\My_programs\4M\Spline\Spline_008\Spline_005\obj\Debug\Spline_005.pdb
+D:\My_programs\4M\Spline\Spline_009\Spline_005\bin\Debug\Spline_005.exe
+D:\My_programs\4M\Spline\Spline_009\Spline_005\bin\Debug\Spline_005.pdb
+D:\My_programs\4M\Spline\Spline_009\Spline_005\bin\Debug\ZedGraph.dll
+D:\My_programs\4M\Spline\Spline_009\Spline_005\obj\Debug\ResolveAssemblyReference.cache
+D:\My_programs\4M\Spline\Spline_009\Spline_005\obj\Debug\Spline_005.Form1.resources
+D:\My_programs\4M\Spline\Spline_009\Spline_005\obj\Debug\Spline_005.Properties.Resources.resources
+D:\My_programs\4M\Spline\Spline_009\Spline_005\obj\Debug\Spline_005.csproj.GenerateResource.Cache
+D:\My_programs\4M\Spline\Spline_009\Spline_005\obj\Debug\Spline_005.exe
+D:\My_programs\4M\Spline\Spline_009\Spline_005\obj\Debug\Spline_005.pdb
+D:\My_programs\4M\Spline\Spline_010\Spline_005\bin\Debug\Spline_005.exe
+D:\My_programs\4M\Spline\Spline_010\Spline_005\bin\Debug\Spline_005.pdb
+D:\My_programs\4M\Spline\Spline_010\Spline_005\bin\Debug\ZedGraph.dll
+D:\My_programs\4M\Spline\Spline_010\Spline_005\obj\Debug\ResolveAssemblyReference.cache
+D:\My_programs\4M\Spline\Spline_010\Spline_005\obj\Debug\Spline_005.Form1.resources
+D:\My_programs\4M\Spline\Spline_010\Spline_005\obj\Debug\Spline_005.Properties.Resources.resources
+D:\My_programs\4M\Spline\Spline_010\Spline_005\obj\Debug\Spline_005.csproj.GenerateResource.Cache
+D:\My_programs\4M\Spline\Spline_010\Spline_005\obj\Debug\Spline_005.exe
+D:\My_programs\4M\Spline\Spline_010\Spline_005\obj\Debug\Spline_005.pdb
+D:\My_programs\4M\Spline\Spline_011\Spline_005\bin\Debug\Spline_005.exe
+D:\My_programs\4M\Spline\Spline_011\Spline_005\bin\Debug\Spline_005.pdb
+D:\My_programs\4M\Spline\Spline_011\Spline_005\bin\Debug\ZedGraph.dll
+D:\My_programs\4M\Spline\Spline_011\Spline_005\obj\Debug\ResolveAssemblyReference.cache
+D:\My_programs\4M\Spline\Spline_011\Spline_005\obj\Debug\Spline_005.Form1.resources
+D:\My_programs\4M\Spline\Spline_011\Spline_005\obj\Debug\Spline_005.Properties.Resources.resources
+D:\My_programs\4M\Spline\Spline_011\Spline_005\obj\Debug\Spline_005.csproj.GenerateResource.Cache
+D:\My_programs\4M\Spline\Spline_011\Spline_005\obj\Debug\Spline_005.exe
+D:\My_programs\4M\Spline\Spline_011\Spline_005\obj\Debug\Spline_005.pdb
+D:\My_programs\4M\Spline\Spline_012\Spline_005\bin\Debug\Spline_005.exe
+D:\My_programs\4M\Spline\Spline_012\Spline_005\bin\Debug\Spline_005.pdb
+D:\My_programs\4M\Spline\Spline_012\Spline_005\bin\Debug\ZedGraph.dll
+D:\My_programs\4M\Spline\Spline_012\Spline_005\obj\Debug\ResolveAssemblyReference.cache
+D:\My_programs\4M\Spline\Spline_012\Spline_005\obj\Debug\Spline_005.Form1.resources
+D:\My_programs\4M\Spline\Spline_012\Spline_005\obj\Debug\Spline_005.Properties.Resources.resources
+D:\My_programs\4M\Spline\Spline_012\Spline_005\obj\Debug\Spline_005.csproj.GenerateResource.Cache
+D:\My_programs\4M\Spline\Spline_012\Spline_005\obj\Debug\Spline_005.exe
+D:\My_programs\4M\Spline\Spline_012\Spline_005\obj\Debug\Spline_005.pdb
+D:\My_programs\4M\Spline\Spline_013\Spline_005\bin\Debug\Spline_005.exe
+D:\My_programs\4M\Spline\Spline_013\Spline_005\bin\Debug\Spline_005.pdb
+D:\My_programs\4M\Spline\Spline_013\Spline_005\bin\Debug\ZedGraph.dll
+D:\My_programs\4M\Spline\Spline_013\Spline_005\obj\Debug\ResolveAssemblyReference.cache
+D:\My_programs\4M\Spline\Spline_013\Spline_005\obj\Debug\Spline_005.Form1.resources
+D:\My_programs\4M\Spline\Spline_013\Spline_005\obj\Debug\Spline_005.Properties.Resources.resources
+D:\My_programs\4M\Spline\Spline_013\Spline_005\obj\Debug\Spline_005.csproj.GenerateResource.Cache
+D:\My_programs\4M\Spline\Spline_013\Spline_005\obj\Debug\Spline_005.exe
+D:\My_programs\4M\Spline\Spline_013\Spline_005\obj\Debug\Spline_005.pdb
+D:\My_programs\4M\Spline\Spline_014\Spline_005\bin\Debug\Spline_005.exe
+D:\My_programs\4M\Spline\Spline_014\Spline_005\bin\Debug\Spline_005.pdb
+D:\My_programs\4M\Spline\Spline_014\Spline_005\bin\Debug\ZedGraph.dll
+D:\My_programs\4M\Spline\Spline_014\Spline_005\obj\Debug\ResolveAssemblyReference.cache
+D:\My_programs\4M\Spline\Spline_014\Spline_005\obj\Debug\Spline_005.Form1.resources
+D:\My_programs\4M\Spline\Spline_014\Spline_005\obj\Debug\Spline_005.Properties.Resources.resources
+D:\My_programs\4M\Spline\Spline_014\Spline_005\obj\Debug\Spline_005.csproj.GenerateResource.Cache
+D:\My_programs\4M\Spline\Spline_014\Spline_005\obj\Debug\Spline_005.exe
+D:\My_programs\4M\Spline\Spline_014\Spline_005\obj\Debug\Spline_005.pdb
+D:\My_programs\4M\Spline\Spline_015\Spline_005\bin\Debug\Spline_005.exe
+D:\My_programs\4M\Spline\Spline_015\Spline_005\bin\Debug\Spline_005.pdb
+D:\My_programs\4M\Spline\Spline_015\Spline_005\bin\Debug\ZedGraph.dll
+D:\My_programs\4M\Spline\Spline_015\Spline_005\obj\Debug\ResolveAssemblyReference.cache
+D:\My_programs\4M\Spline\Spline_015\Spline_005\obj\Debug\Spline_005.Form1.resources
+D:\My_programs\4M\Spline\Spline_015\Spline_005\obj\Debug\Spline_005.Properties.Resources.resources
+D:\My_programs\4M\Spline\Spline_015\Spline_005\obj\Debug\Spline_005.csproj.GenerateResource.Cache
+D:\My_programs\4M\Spline\Spline_015\Spline_005\obj\Debug\Spline_005.exe
+D:\My_programs\4M\Spline\Spline_015\Spline_005\obj\Debug\Spline_005.pdb
+D:\My_programs\4M\Spline\Spline_016\Spline_005\bin\Debug\Spline_005.exe
+D:\My_programs\4M\Spline\Spline_016\Spline_005\bin\Debug\Spline_005.pdb
+D:\My_programs\4M\Spline\Spline_016\Spline_005\bin\Debug\ZedGraph.dll
+D:\My_programs\4M\Spline\Spline_016\Spline_005\obj\Debug\ResolveAssemblyReference.cache
+D:\My_programs\4M\Spline\Spline_016\Spline_005\obj\Debug\Spline_005.Form1.resources
+D:\My_programs\4M\Spline\Spline_016\Spline_005\obj\Debug\Spline_005.Properties.Resources.resources
+D:\My_programs\4M\Spline\Spline_016\Spline_005\obj\Debug\Spline_005.csproj.GenerateResource.Cache
+D:\My_programs\4M\Spline\Spline_016\Spline_005\obj\Debug\Spline_005.exe
+D:\My_programs\4M\Spline\Spline_016\Spline_005\obj\Debug\Spline_005.pdb
+D:\My_programs\4M\Spline\Spline_017\Spline_005\bin\Debug\Spline_005.exe
+D:\My_programs\4M\Spline\Spline_017\Spline_005\bin\Debug\Spline_005.pdb
+D:\My_programs\4M\Spline\Spline_017\Spline_005\bin\Debug\ZedGraph.dll
+D:\My_programs\4M\Spline\Spline_017\Spline_005\obj\Debug\ResolveAssemblyReference.cache
+D:\My_programs\4M\Spline\Spline_017\Spline_005\obj\Debug\Spline_005.Form1.resources
+D:\My_programs\4M\Spline\Spline_017\Spline_005\obj\Debug\Spline_005.Properties.Resources.resources
+D:\My_programs\4M\Spline\Spline_017\Spline_005\obj\Debug\Spline_005.csproj.GenerateResource.Cache
+D:\My_programs\4M\Spline\Spline_017\Spline_005\obj\Debug\Spline_005.exe
+D:\My_programs\4M\Spline\Spline_017\Spline_005\obj\Debug\Spline_005.pdb
+D:\My_programs\4M\Spline\Spline_018\Spline_005\bin\Debug\Spline_005.exe
+D:\My_programs\4M\Spline\Spline_018\Spline_005\bin\Debug\Spline_005.pdb
+D:\My_programs\4M\Spline\Spline_018\Spline_005\bin\Debug\ZedGraph.dll
+D:\My_programs\4M\Spline\Spline_018\Spline_005\obj\Debug\ResolveAssemblyReference.cache
+D:\My_programs\4M\Spline\Spline_018\Spline_005\obj\Debug\Spline_005.Form1.resources
+D:\My_programs\4M\Spline\Spline_018\Spline_005\obj\Debug\Spline_005.Properties.Resources.resources
+D:\My_programs\4M\Spline\Spline_018\Spline_005\obj\Debug\Spline_005.csproj.GenerateResource.Cache
+D:\My_programs\4M\Spline\Spline_018\Spline_005\obj\Debug\Spline_005.exe
+D:\My_programs\4M\Spline\Spline_018\Spline_005\obj\Debug\Spline_005.pdb
+D:\My_programs\4M\Spline\Spline_019\Spline_005\bin\Debug\Spline_005.exe
+D:\My_programs\4M\Spline\Spline_019\Spline_005\bin\Debug\Spline_005.pdb
+D:\My_programs\4M\Spline\Spline_019\Spline_005\bin\Debug\ZedGraph.dll
+D:\My_programs\4M\Spline\Spline_019\Spline_005\obj\Debug\ResolveAssemblyReference.cache
+D:\My_programs\4M\Spline\Spline_019\Spline_005\obj\Debug\Spline_005.Form1.resources
+D:\My_programs\4M\Spline\Spline_019\Spline_005\obj\Debug\Spline_005.Properties.Resources.resources
+D:\My_programs\4M\Spline\Spline_019\Spline_005\obj\Debug\Spline_005.csproj.GenerateResource.Cache
+D:\My_programs\4M\Spline\Spline_019\Spline_005\obj\Debug\Spline_005.exe
+D:\My_programs\4M\Spline\Spline_019\Spline_005\obj\Debug\Spline_005.pdb
+D:\My_programs\4M\Spline\Spline_021\Spline_005\bin\Debug\Spline_005.exe
+D:\My_programs\4M\Spline\Spline_021\Spline_005\bin\Debug\Spline_005.pdb
+D:\My_programs\4M\Spline\Spline_021\Spline_005\bin\Debug\ZedGraph.dll
+D:\My_programs\4M\Spline\Spline_021\Spline_005\obj\Debug\ResolveAssemblyReference.cache
+D:\My_programs\4M\Spline\Spline_021\Spline_005\obj\Debug\Spline_005.Form1.resources
+D:\My_programs\4M\Spline\Spline_021\Spline_005\obj\Debug\Spline_005.Properties.Resources.resources
+D:\My_programs\4M\Spline\Spline_021\Spline_005\obj\Debug\Spline_005.csproj.GenerateResource.Cache
+D:\My_programs\4M\Spline\Spline_021\Spline_005\obj\Debug\Spline_005.exe
+D:\My_programs\4M\Spline\Spline_021\Spline_005\obj\Debug\Spline_005.pdb
+D:\My_programs\4M\Spline\Spline_022\Spline_005\bin\Debug\Spline_005.exe
+D:\My_programs\4M\Spline\Spline_022\Spline_005\bin\Debug\Spline_005.pdb
+D:\My_programs\4M\Spline\Spline_022\Spline_005\bin\Debug\ZedGraph.dll
+D:\My_programs\4M\Spline\Spline_022\Spline_005\obj\Debug\ResolveAssemblyReference.cache
+D:\My_programs\4M\Spline\Spline_022\Spline_005\obj\Debug\Spline_005.Form1.resources
+D:\My_programs\4M\Spline\Spline_022\Spline_005\obj\Debug\Spline_005.Properties.Resources.resources
+D:\My_programs\4M\Spline\Spline_022\Spline_005\obj\Debug\Spline_005.csproj.GenerateResource.Cache
+D:\My_programs\4M\Spline\Spline_022\Spline_005\obj\Debug\Spline_005.exe
+D:\My_programs\4M\Spline\Spline_022\Spline_005\obj\Debug\Spline_005.pdb
+g:\maxim.lulaev\Универ\03. Численные методы\Лабораторная\01 Сплайн\Other\Игорь\Игорь\Spline_023\Spline_005\obj\Debug\Spline_005.exe
+g:\maxim.lulaev\Универ\03. Численные методы\Лабораторная\01 Сплайн\Other\Игорь\Игорь\Spline_023\Spline_005\obj\Debug\Spline_005.pdb
+g:\maxim.lulaev\Универ\03. Численные методы\Лабораторная\01 Сплайн\Other\Игорь\Игорь\Spline_023\Spline_005\bin\Debug\Spline_005.exe
+g:\maxim.lulaev\Универ\03. Численные методы\Лабораторная\01 Сплайн\Other\Игорь\Игорь\Spline_023\Spline_005\bin\Debug\Spline_005.pdb
+g:\maxim.lulaev\Универ\03. Численные методы\Лабораторная\01 Сплайн\Other\Игорь\Игорь\Spline_023\Spline_005\bin\Debug\ZedGraph.dll
+g:\maxim.lulaev\Универ\03. Численные методы\Лабораторная\01 Сплайн\Other\Игорь\Игорь\Spline_023\Spline_005\obj\Debug\Spline_005.csprojResolveAssemblyReference.cache
+g:\maxim.lulaev\Универ\03. Численные методы\Лабораторная\01 Сплайн\Other\Игорь\Игорь\Spline_023\Spline_005\obj\Debug\Spline_005.Form1.resources
+g:\maxim.lulaev\Универ\03. Численные методы\Лабораторная\01 Сплайн\Other\Игорь\Игорь\Spline_023\Spline_005\obj\Debug\Spline_005.Properties.Resources.resources
+g:\maxim.lulaev\Универ\03. Численные методы\Лабораторная\01 Сплайн\Other\Игорь\Игорь\Spline_023\Spline_005\obj\Debug\Spline_005.csproj.GenerateResource.Cache
+g:\maxim.lulaev\Универ\03. Численные методы\Spline_023\Spline_005\bin\Debug\Spline_005.exe
+g:\maxim.lulaev\Универ\03. Численные методы\Spline_023\Spline_005\bin\Debug\Spline_005.pdb
+g:\maxim.lulaev\Универ\03. Численные методы\Spline_023\Spline_005\bin\Debug\ZedGraph.dll
+g:\maxim.lulaev\Универ\03. Численные методы\Spline_023\Spline_005\obj\Debug\Spline_005.csprojResolveAssemblyReference.cache
+g:\maxim.lulaev\Универ\03. Численные методы\Spline_023\Spline_005\obj\Debug\Spline_005.Form1.resources
+g:\maxim.lulaev\Универ\03. Численные методы\Spline_023\Spline_005\obj\Debug\Spline_005.Properties.Resources.resources
+g:\maxim.lulaev\Универ\03. Численные методы\Spline_023\Spline_005\obj\Debug\Spline_005.csproj.GenerateResource.Cache
+g:\maxim.lulaev\Универ\03. Численные методы\Spline_023\Spline_005\obj\Debug\Spline_005.exe
+g:\maxim.lulaev\Универ\03. Численные методы\Spline_023\Spline_005\obj\Debug\Spline_005.pdb
+C:\Users\User\Desktop\University\Численные методы (ЧМ)\02. Labs\01 Сплайн\00. Soft\Spline\Spline_005\obj\Debug\Spline_005.exe
+C:\Users\User\Desktop\University\Численные методы (ЧМ)\02. Labs\01 Сплайн\00. Soft\Spline\Spline_005\obj\Debug\Spline_005.pdb
+C:\Users\User\Desktop\University\Численные методы (ЧМ)\02. Labs\01 Сплайн\00. Soft\Spline\Spline_005\bin\Debug\Spline_005.exe
+C:\Users\User\Desktop\University\Численные методы (ЧМ)\02. Labs\01 Сплайн\00. Soft\Spline\Spline_005\bin\Debug\Spline_005.pdb
+C:\Users\User\Desktop\University\Численные методы (ЧМ)\02. Labs\01 Сплайн\00. Soft\Spline\Spline_005\bin\Debug\ZedGraph.dll
+C:\Users\User\Desktop\University\Численные методы (ЧМ)\02. Labs\01 Сплайн\00. Soft\Spline\Spline_005\obj\Debug\Spline_005.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\University\Численные методы (ЧМ)\02. Labs\01 Сплайн\00. Soft\Spline\Spline_005\obj\Debug\Spline_005.Form1.resources
+C:\Users\User\Desktop\University\Численные методы (ЧМ)\02. Labs\01 Сплайн\00. Soft\Spline\Spline_005\obj\Debug\Spline_005.Properties.Resources.resources
+C:\Users\User\Desktop\University\Численные методы (ЧМ)\02. Labs\01 Сплайн\00. Soft\Spline\Spline_005\obj\Debug\Spline_005.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Spline\Spline_005\obj\Debug\Spline_005.exe
+C:\Users\User\Desktop\Spline\Spline_005\obj\Debug\Spline_005.pdb
+D:\Studing\ЧМ\ЧМ 2 семестр\Spline\Spline_005\bin\Debug\Spline_005.exe
+D:\Studing\ЧМ\ЧМ 2 семестр\Spline\Spline_005\bin\Debug\Spline_005.pdb
+D:\Studing\ЧМ\ЧМ 2 семестр\Spline\Spline_005\bin\Debug\ZedGraph.dll
+D:\Studing\ЧМ\ЧМ 2 семестр\Spline\Spline_005\obj\Debug\Spline_005.csprojAssemblyReference.cache
+D:\Studing\ЧМ\ЧМ 2 семестр\Spline\Spline_005\obj\Debug\Spline_005.Form1.resources
+D:\Studing\ЧМ\ЧМ 2 семестр\Spline\Spline_005\obj\Debug\Spline_005.Properties.Resources.resources
+D:\Studing\ЧМ\ЧМ 2 семестр\Spline\Spline_005\obj\Debug\Spline_005.csproj.GenerateResource.cache
+D:\Studing\ЧМ\ЧМ 2 семестр\Spline\Spline_005\obj\Debug\Spline_005.csproj.CoreCompileInputs.cache
+D:\Studing\ЧМ\ЧМ 2 семестр\Spline\Spline_005\obj\Debug\Spline_005.csproj.CopyComplete
+D:\Studing\ЧМ\ЧМ 2 семестр\Spline\Spline_005\obj\Debug\Spline_005.exe
+D:\Studing\ЧМ\ЧМ 2 семестр\Spline\Spline_005\obj\Debug\Spline_005.pdb

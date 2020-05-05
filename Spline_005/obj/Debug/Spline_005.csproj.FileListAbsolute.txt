@@ -182,3 +182,14 @@ D:\Studing\ЧМ\ЧМ 2 семестр\Spline\Spline_005\obj\Debug\Spline_005.csp
 D:\Studing\ЧМ\ЧМ 2 семестр\Spline\Spline_005\obj\Debug\Spline_005.csproj.CopyComplete
 D:\Studing\ЧМ\ЧМ 2 семестр\Spline\Spline_005\obj\Debug\Spline_005.exe
 D:\Studing\ЧМ\ЧМ 2 семестр\Spline\Spline_005\obj\Debug\Spline_005.pdb
+D:\reps-git\Spline-lab\Spline_005\bin\Debug\Spline_005.exe
+D:\reps-git\Spline-lab\Spline_005\bin\Debug\Spline_005.pdb
+D:\reps-git\Spline-lab\Spline_005\bin\Debug\ZedGraph.dll
+D:\reps-git\Spline-lab\Spline_005\obj\Debug\Spline_005.csprojAssemblyReference.cache
+D:\reps-git\Spline-lab\Spline_005\obj\Debug\Spline_005.Form1.resources
+D:\reps-git\Spline-lab\Spline_005\obj\Debug\Spline_005.Properties.Resources.resources
+D:\reps-git\Spline-lab\Spline_005\obj\Debug\Spline_005.csproj.GenerateResource.cache
+D:\reps-git\Spline-lab\Spline_005\obj\Debug\Spline_005.csproj.CoreCompileInputs.cache
+D:\reps-git\Spline-lab\Spline_005\obj\Debug\Spline_005.csproj.CopyComplete
+D:\reps-git\Spline-lab\Spline_005\obj\Debug\Spline_005.exe
+D:\reps-git\Spline-lab\Spline_005\obj\Debug\Spline_005.pdb

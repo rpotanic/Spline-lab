@@ -47,7 +47,7 @@ namespace Spline_005 {
                 return (Math.Sqrt(Math.Pow(x, 2) - 1)) / x;
             }
             if (FuncFlag == 3) {
-                return ( Math.Sin(x + 1) / x + Math.Cos(10 * x) );
+                return ((Math.Sqrt(Math.Pow(x, 2) - 1)) / x) + Math.Cos(10*x);
             }
             if (FuncFlag == 4) {
                 return ( Math.Sin(x + 1) / x + Math.Cos(100 * x) );
@@ -67,7 +67,7 @@ namespace Spline_005 {
                 return (1 / (Math.Pow(x, 2.0) * Math.Sqrt(Math.Pow(x, 2.0) - 1)));
             }
             if (FuncFlag == 3) {
-                return (Math.Cos(x + 1) / x + Math.Sin(x + 1) / Math.Pow(x, 2.0) - 10 * Math.Sin(10 * x));
+                return (1 / (Math.Pow(x, 2.0) * Math.Sqrt(Math.Pow(x, 2.0) - 1))) - 10*Math.Sin(10*x) ;
             }
             if (FuncFlag == 4) {
                 return (Math.Cos(x + 1) / x + Math.Sin(x + 1) / Math.Pow(x, 2.0) - 100 * Math.Sin(100 * x));
@@ -87,7 +87,7 @@ namespace Spline_005 {
                 return ((2.0 - 3.0 * Math.Pow(x,2))/ (Math.Pow(x,3) * Math.Pow(Math.Pow(x,2)-1,1.5)));
             }
             if (FuncFlag == 3) {
-                return ((-1.0) * Math.Sin(x + 1) / x - (2.0) * Math.Cos(x + 1) / Math.Pow(x, 2.0) + 2 * Math.Sin(x + 1) / Math.Pow(x, 3.0) - 100 * Math.Cos(10 * x));
+                return (2.0 - 3.0 * Math.Pow(x, 2.0)) / (Math.Pow(x, 3.0) * Math.Sqrt(Math.Pow((Math.Pow(x, 2.0) - 1), 3.0))) - 100 * Math.Cos(10 * x);
             }
             if (FuncFlag == 4) {
                 return ((-1.0) * Math.Sin(x + 1) / x - (2.0) * Math.Cos(x + 1) / Math.Pow(x, 2.0) + 2 * Math.Sin(x + 1) / Math.Pow(x, 3.0) - 10000 * Math.Cos(100 * x));
@@ -137,7 +137,7 @@ namespace Spline_005 {
         //ЗАГРУЗКА ФОРМЫ
         private void Form1_Load(object sender, EventArgs e)
         {
-            this.WindowState = FormWindowState.Maximized;
+            /* this.WindowState = FormWindowState.Minimized;
             zedGraphControl1.Height = (int)(0.9 * this.Height);
             zedGraphControl1.Width = (int)(0.7 * this.Width);
             tabControl1.Height = (int)(0.77 * this.Height);
@@ -145,6 +145,7 @@ namespace Spline_005 {
             Table1.Width = (int)(0.98 * tabControl1.Width);
             Table2.Height = (int)(0.85 * tabControl1.Height);
             Table2.Width = (int)(0.98 * tabControl1.Width);
+            */
         }
 
 
@@ -407,23 +408,47 @@ namespace Spline_005 {
             b = Math.PI;
         }
 
-        private void functionToolStripMenuItem1_Click(object sender, EventArgs e)
+        
+
+        private void radioButton1_CheckedChanged(object sender, EventArgs e)
         {
             GraphFlag = 1;
             Draw();
         }
 
-        private void derivative1ToolStripMenuItem_Click(object sender, EventArgs e)
+        private void radioButton4_CheckedChanged(object sender, EventArgs e)
+        {
+            FuncFlag = 1;
+            a = -1;
+            b = 1;
+        }
+
+        private void radioButton5_CheckedChanged(object sender, EventArgs e)
+        {
+            FuncFlag = 2;
+            a = 2;
+            b = 4;
+        }
+
+        private void radioButton6_CheckedChanged(object sender, EventArgs e)
+        {
+            FuncFlag = 3;
+            a = 2;
+            b = 4;
+        }
+
+        private void radioButton2_CheckedChanged(object sender, EventArgs e)
         {
             GraphFlag = 2;
             Draw();
         }
 
-        private void derivative2ToolStripMenuItem_Click(object sender, EventArgs e)
+        private void radioButton3_CheckedChanged(object sender, EventArgs e)
         {
             GraphFlag = 3;
             Draw();
         }
+
 
         private void buttonGU_Click(object sender, EventArgs e)
         {
@@ -453,8 +478,8 @@ namespace Spline_005 {
                 SplineFirstDevList.Add(x, SplineFirstDev(x));
                 SplineSecondDevList.Add(x, SplineSecondDev(x));
                 FuncErrorList.Add(x, f(x) - Spline(x));
-                FirstDevErrorList.Add(x, Math.Abs(FirstDevf(x) - SplineFirstDev(x)));
-                SecondDevErrorList.Add(x, Math.Abs(SecondDevf(x) - SplineSecondDev(x)));
+                FirstDevErrorList.Add(x, FirstDevf(x) - SplineFirstDev(x));
+                SecondDevErrorList.Add(x, SecondDevf(x) - SplineSecondDev(x));
             }
             FunctionList.Add(b, f(b));
             FirstDivFunctionList.Add(b, FirstDevf(b));
@@ -463,8 +488,8 @@ namespace Spline_005 {
             SplineFirstDevList.Add(b, SplineFirstDev(b));
             SplineSecondDevList.Add(b, SplineSecondDev(b));
             FuncErrorList.Add(b, f(b) - Spline(b));
-            FirstDevErrorList.Add(b,Math.Abs( FirstDevf(b) - SplineFirstDev(b)));
-            SecondDevErrorList.Add(b, Math.Abs(SecondDevf(b) - SplineSecondDev(b)));
+            FirstDevErrorList.Add(b,FirstDevf(b) - SplineFirstDev(b));
+            SecondDevErrorList.Add(b, SecondDevf(b) - SplineSecondDev(b));
         }
     }
 
